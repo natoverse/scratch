@@ -2,6 +2,8 @@
 
 This is a set of sprites for building a game scoreboard. You could use it to keep track of how many items you've collected, or how many enemies you have killed.
 
+You can look at at the project on Scratch to see the code and example of how it works: https://scratch.mit.edu/projects/101081276/.
+
 There are several sprites available: one each to track the `ones`, `tens`, and `hundreds` digits of your score, and a fourth that is user-configurable (`any`).
 
 In order to increase your score using these scoreboard sprites, you need to broadcast the message `score-increment`. Each sprite will receive that message, keep track of the current score, and update itself as needed<sup>1</sup>. As you can probably guess, every score increment will cause the `ones` sprite to increase its number, and every ten increments will cause the `tens` to increase.
