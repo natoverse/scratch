@@ -2,7 +2,9 @@
 
 This is a set of sprites for building a game scoreboard. You could use it to keep track of how many items you've collected, or how many enemies you have killed.
 
-You can look at at the project on Scratch to see the code and example of how it works: https://scratch.mit.edu/projects/101081276/.
+You can look at at [the project on Scratch](https://scratch.mit.edu/projects/101081276/) to see the code and examples of how it works, and I've [written a tutorial](https://medium.com/@natoverse/scratch-tutorial-making-a-scoreboard-6cc65a2fe3ed#.ytizudo0m) to walk through it as well.
+
+
 
 There are several sprites available: one each to track the `ones`, `tens`, and `hundreds` digits of your score, and a fourth that is user-configurable (`any`).
 
